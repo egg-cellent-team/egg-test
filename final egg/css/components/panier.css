@@ -1,0 +1,20 @@
+.panier .panier { 
+	display: inline-block;
+	width: 300px;
+	height: 360px;
+	padding:0px;
+	margin:20px; }
+
+.panier .panier_left{
+	display: inline-block;
+	width: 300px;
+	height: 360px;
+	padding:0px;
+	margin:20px; 
+	border-right:7px solid orange;
+
+}
+
+.panier .panier_right_top{
+	border-bottom: 7px solid orange;
+}
